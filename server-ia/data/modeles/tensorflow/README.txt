@@ -1,0 +1,2 @@
+Générer par server-trainer\Camera_Identification_VitesseRoadSign-ModelTraining.py
+Utilisé pour server-ia\Camera_Identification_VitesseRoadSign\lire_panneau.py

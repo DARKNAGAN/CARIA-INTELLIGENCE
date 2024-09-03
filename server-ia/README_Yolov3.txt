@@ -1,0 +1,3 @@
+python server-ia/yolov3_opencv_picture.py --image server-ia/data/images/dog.jpg --config server-ia/data/modeles/yolov3/yolov3.cfg --weights server-ia/data/modeles/yolov3/yolov3.weights --classes server-ia/data/modeles/yolov3/yolov3.txt
+python server-ia/yolov3_opencv_video.py --video cam --config server-ia/data/modeles/yolov3/yolov3.cfg --weights server-ia/data/modeles/yolov3/yolov3.weights --classes server-ia/data/modeles/yolov3/yolov3.txt
+python server-ia/yolov3_opencv_video.py --video server-ia/data/videos/ville.mp4 --config server-ia/data/modeles/yolov3/yolov3.cfg --weights server-ia/data/modeles/yolov3/yolov3.weights --classes server-ia/data/modeles/yolov3/yolov3.txt
